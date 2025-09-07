@@ -690,39 +690,7 @@ PRODUCT_PACKAGES += \
     monet_truly_main_ov12a10_tuning \
     monet_txd_front_hi556_IdxMgr \
     monet_txd_front_hi556_tuning \
-    monetd_cxt_depth_gc2375h_IdxMgr \
-    monetd_cxt_depth_gc2375h_tuning \
-    monetd_truly_main_ov12a10_IdxMgr \
-    monetd_truly_main_ov12a10_tuning \
-    monetx_hlt_depth_ov02a1b_IdxMgr \
-    monetx_hlt_depth_ov02a1b_tuning \
-    monetx_hlt_macro_gc2375h_IdxMgr \
-    monetx_hlt_macro_gc2375h_tuning \
-    monetx_hlt_macro_gc2385_IdxMgr \
-    monetx_hlt_macro_gc2385_tuning \
-    monetx_ofilm_front_ov16a1q_IdxMgr \
-    monetx_ofilm_front_ov16a1q_tuning \
-    monetx_shengtai_wide_ov8856_IdxMgr \
-    monetx_shengtai_wide_ov8856_tuning \
-    monetx_truly_main_s5kgm1sp_IdxMgr \
-    monetx_truly_main_s5kgm1sp_tuning \
     nfc_nci.pn54x.default \
-    pascala_hlt_front_s5k4h7_IdxMgr \
-    pascala_hlt_front_s5k4h7_tuning \
-    pascala_shengtai_macro_ov02b10_IdxMgr \
-    pascala_shengtai_macro_ov02b10_tuning \
-    pascala_shengtai_wide_ov8856_IdxMgr \
-    pascala_shengtai_wide_ov8856_tuning \
-    pascala_truly2_main_s5kgm1sp_IdxMgr \
-    pascala_truly2_main_s5kgm1sp_tuning \
-    pascala_truly_main_s5kgm1sp_IdxMgr \
-    pascala_truly_main_s5kgm1sp_tuning \
-    pascali_hlt_depth_gc02m1b_IdxMgr \
-    pascali_hlt_depth_gc02m1b_tuning \
-    pascali_hlt_front_s5k4h7_IdxMgr \
-    pascali_hlt_front_s5k4h7_tuning \
-    pascali_qtech_main_ov13b10_IdxMgr \
-    pascali_qtech_main_ov13b10_tuning \
     vendor.mediatek.hardware.audio@6.1 \
     vendor.mediatek.hardware.bluetooth.audio@2.1 \
     vendor.mediatek.hardware.camera.bgservice@1.0 \
@@ -752,8 +720,6 @@ PRODUCT_PACKAGES += \
     vendor.mediatek.hardware.pq@2.4 \
     vendor.mediatek.hardware.pq@2.5 \
     vendor.mediatek.hardware.pq@2.6 \
-    victor_s5k3p9sp_mipi_raw_IdxMgr \
-    victor_s5k3p9sp_mipi_raw_tuning \
     audio.primary.mt6768 \
     audio.r_submix.mt6768 \
     audio.usb.mt6768 \
@@ -1003,40 +969,6 @@ PRODUCT_PACKAGES += \
     libccu_monet_truly_main_ov12a10.pm \
     libccu_monet_txd_front_hi556.dm \
     libccu_monet_txd_front_hi556.pm \
-    libccu_monetd_cxt_depth_gc2375h.dm \
-    libccu_monetd_cxt_depth_gc2375h.pm \
-    libccu_monetd_truly_main_ov12a10.dm \
-    libccu_monetd_truly_main_ov12a10.pm \
-    libccu_monetx_hlt_depth_ov02a1b.dm \
-    libccu_monetx_hlt_depth_ov02a1b.pm \
-    libccu_monetx_hlt_macro_gc2375h.dm \
-    libccu_monetx_hlt_macro_gc2375h.pm \
-    libccu_monetx_hlt_macro_gc2385.dm \
-    libccu_monetx_hlt_macro_gc2385.pm \
-    libccu_monetx_ofilm_front_ov16a1q.dm \
-    libccu_monetx_ofilm_front_ov16a1q.pm \
-    libccu_monetx_shengtai_wide_ov8856.dm \
-    libccu_monetx_shengtai_wide_ov8856.pm \
-    libccu_monetx_truly_main_s5kgm1sp.dm \
-    libccu_monetx_truly_main_s5kgm1sp.pm \
-    libccu_pascala_hlt_front_s5k4h7.dm \
-    libccu_pascala_hlt_front_s5k4h7.pm \
-    libccu_pascala_shengtai_macro_ov02b10.dm \
-    libccu_pascala_shengtai_macro_ov02b10.pm \
-    libccu_pascala_shengtai_wide_ov8856.dm \
-    libccu_pascala_shengtai_wide_ov8856.pm \
-    libccu_pascala_truly2_main_s5kgm1sp.dm \
-    libccu_pascala_truly2_main_s5kgm1sp.pm \
-    libccu_pascala_truly_main_s5kgm1sp.dm \
-    libccu_pascala_truly_main_s5kgm1sp.pm \
-    libccu_pascali_hlt_depth_gc02m1b.dm \
-    libccu_pascali_hlt_depth_gc02m1b.pm \
-    libccu_pascali_hlt_front_s5k4h7.dm \
-    libccu_pascali_hlt_front_s5k4h7.pm \
-    libccu_pascali_qtech_main_ov13b10.dm \
-    libccu_pascali_qtech_main_ov13b10.pm \
-    libccu_victor_s5k3p9sp_mipi_raw.dm \
-    libccu_victor_s5k3p9sp_mipi_raw.pm \
     mcDriverDaemon \
     md_monitor \
     md_monitor_ctrl \
